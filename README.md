@@ -21,17 +21,19 @@ BIREME-UI is a customizable design system built on top of [Chakra UI](https://ch
 
 ## 📁 Repository Structure
 
+<code>
 bireme-ui/
 ├── src/
-│   ├── components/        # All reusable UI components
-│   ├── theme/             # Chakra theme customization
-│   ├── tokens/            # Design tokens (exported from Tokens Studio)
-│   └── index.ts           # Entry point
+│   ├── components/		# All reusable UI components (under development)
+│   ├── theme/			# Chakra theme customization
+│   ├── tokens/			# Design tokens (exported from Tokens Studio)
+│   └── index.ts		# Entry point
 ├── public/
-├── .storybook/            # Storybook configuration
+├── .storybook/			# Storybook configuration
 ├── README.md
-├── package.json
-└── tsconfig.json
+├── package.json		# (under development)
+└── tsconfig.json		# (under development)
+</code>
 
 ## 🚀 Getting Started
 
